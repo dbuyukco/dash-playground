@@ -1,0 +1,14 @@
+body {
+    background-color: #1e1e1e;
+    color: #f3f6fa;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 20;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fec036;
+    letter-spacing: -.3rem;
+}
